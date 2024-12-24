@@ -6,3 +6,9 @@
 
 
 ![image](https://github.com/user-attachments/assets/a42f71b1-d359-4d75-a642-e55f45e1b3bd)
+
+
+
+
+GenerativeAI/ComfyUI/Upscale/Hires fix process
+![image](https://github.com/user-attachments/assets/52eafa53-a7cb-4a13-96c5-2859f98790a1)
